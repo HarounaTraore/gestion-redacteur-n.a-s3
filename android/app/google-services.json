@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020966725103",
+    "project_id": "gestion-redacteur",
+    "storage_bucket": "gestion-redacteur.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020966725103:android:40bd67e191f4c21a37821a",
+        "android_client_info": {
+          "package_name": "com.example.gestion_redacteur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Gu-mfmdc4us4L3A_bRHg7CWWbB7xKlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
